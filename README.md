@@ -5,7 +5,7 @@
 <h3 align="center">
 📊 Aspiring Data Scientist | Data Analytics & Machine Learning Enthusiast  
 <br/>
-BTech CSE | Turning data into actionable insights 🚀
+BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
 </h3>
 
 <p align="center">
@@ -20,17 +20,18 @@ BTech CSE | Turning data into actionable insights 🚀
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=520&lines=Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+Enthusiast;Learning+from+Data+Everyday+📈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%7C+DSA;Problem+Solving+with+Code+%26+Data+📊🧠" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 📊 Strong interest in **Data Analytics, Data Science & Machine Learning**
-- 🧠 Skilled in **Python, SQL, statistics & data preprocessing**
+- 🧠 Solid foundation in **Data Structures & Algorithms (DSA)** using **C, C++ & Java**
+- 💻 Passionate about **problem-solving, algorithmic thinking & optimization**
 - 📈 Hands-on experience with **EDA, dashboards & predictive modeling**
-- 🤖 Passionate about applying ML to solve **real-world business problems**
-- 🤝 Open to collaborating on **Data Analytics & ML projects**
+- 🤖 Interested in applying **ML + DSA** to solve **real-world business problems**
+- 🤝 Open to collaborating on **Data Analytics, ML & problem-solving projects**
 - 📫 **Reach me:** [github.com/Gajanan1904](https://github.com/Gajanan1904)
 
 ---
@@ -47,6 +48,9 @@ BTech CSE | Turning data into actionable insights 🚀
 
 **Data & Analytics Tools:**  
 📊 Excel | 📈 Power BI | 📉 Tableau | 🧮 Statistics | 🤖 Machine Learning | 📂 Data Cleaning & EDA  
+
+**Problem Solving & DSA:**  
+🧠 Arrays | Strings | Linked Lists | Stacks | Queues | Trees | Graphs | Recursion | Dynamic Programming  
 
 ---
 
@@ -121,5 +125,5 @@ BTech CSE | Turning data into actionable insights 🚀
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+📊;Data+Drives+Decisions+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+📊;Data+%2B+DSA+%3D+Impact+🚀" />
 </p>
