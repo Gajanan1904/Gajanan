@@ -118,7 +118,6 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
     src="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph.svg"
     width="100%" />
 </picture>
-
 ---
 
 ## 🌐 Connect With Me
