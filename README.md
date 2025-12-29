@@ -109,6 +109,22 @@ BTech CSE | Strong in DSA | Turning data into actionable insights 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gajanan1904&theme=tokyo-night"/>
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph-dark.svg?v=1"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph.svg?v=1"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Gajanan1904/Gajanan1904/output/pacman-contribution-graph.svg?v=1"
+    width="100%"
+  />
+</picture>
+
 
 ---
 
